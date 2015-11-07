@@ -23,8 +23,8 @@ At the end of the talk I provided some links to further information, here they a
 
 * [6502.org](http://www.6502.org/tutorials/6502opcodes.html): Great 6502 resource site; link is to a handy opcode reference
 * [Atari Color Chart](http://www.randomterrain.com/atari-2600-memories-tia-color-charts.html): Colors are tricky on the VCS; this will help a lot
-* [Support Source code]() for this presentation
-* [Slides]() 
+* [Support Source code](https://github.com/logosity/atari-intro-osom) for this presentation
+* [Slides](https://speakerdeck.com/logosity/atari-vcs-programming-a-very-brief-introduction) The slides used for presentation
 * [Atari: Game Over]() Great documentary to get a sene of the history. Plus, the mystery of ET cartridges solved!
 * [Racing the Beam: The Atari Video Computer System](http://www.amazon.com/Racing-Beam-Computer-Platform-Studies/dp/026201257X): In depth, and fairly technical book about how games for the platform were written
 
