@@ -4,7 +4,7 @@ These are the supporting files for the lightning talk I did on Atari VCS (2600) 
 The slides are available on [speakerdeck](https://speakerdeck.com/logosity/atari-vcs-programming-a-very-brief-introduction)
 
 # Demo
-The demo itselfs is a simple example of creating asymmetric playfields. The intent is to show the precise timing needed for atari scanline kernels (for fun change the SLEEP 6 on line 53 of demo.asm to SLEEP 7 and reload the binary)
+The demo itself is a simple example of creating asymmetric playfields. The intent is to show the precise timing needed for atari scanline kernels (for fun change the SLEEP 6 on line 53 of demo.asm to SLEEP 7 and reload the binary)
 
 # Compiling and installing
 
